@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ui.png">
+	<!-- Created with Adobe Flash Professional version 15.0.0.173 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="BtnPLay instance 10000" x="1" y="770" width="95" height="94"/>
+	<SubTexture name="btnFon instance 10000" x="1" y="865" width="61" height="60"/>
+	<SubTexture name="btnGift instance 10000" x="360" y="517" width="72" height="84"/>
+	<SubTexture name="btnLimitedOffer instance 10000" x="1" y="609" width="210" height="92"/>
+	<SubTexture name="btnMissions instance 10000" x="479" y="1" width="31" height="39"/>
+	<SubTexture name="btnModes instance 10000" x="372" y="866" width="38" height="41" frameX="-3" frameY="0" frameWidth="43" frameHeight="41"/>
+	<SubTexture name="btnModes instance 10001" x="166" y="702" width="43" height="35" frameX="0" frameY="-3" frameWidth="43" frameHeight="41"/>
+	<SubTexture name="btnModes instance 10002" x="247" y="872" width="35" height="41" frameX="-4" frameY="0" frameWidth="43" frameHeight="41"/>
+	<SubTexture name="btnSelBuy instance 10000" x="212" y="673" width="166" height="69" frameX="-1" frameY="-1" frameWidth="167" frameHeight="70"/>
+	<SubTexture name="btnSelBuy instance 10001" x="1" y="702" width="164" height="67" frameX="0" frameY="0" frameWidth="167" frameHeight="70"/>
+	<SubTexture name="btnSelBuy instance 10002" x="166" y="743" width="164" height="67" frameX="0" frameY="0" frameWidth="167" frameHeight="70"/>
+	<SubTexture name="btnSlide instance 10000" x="454" y="350" width="46" height="77"/>
+	<SubTexture name="btnThemes instance 10000" x="449" y="866" width="42" height="35"/>
+	<SubTexture name="btn_back instance 10000" x="454" y="713" width="37" height="29"/>
+	<SubTexture name="btn_fon instance 10000" x="247" y="811" width="61" height="60"/>
+	<SubTexture name="btn_musicOn instance 10000" x="479" y="41" width="26" height="33"/>
+	<SubTexture name="btn_pause instance 10000" x="479" y="75" width="22" height="32"/>
+	<SubTexture name="btn_sfxOn instance 10000" x="454" y="470" width="44" height="39"/>
+	<SubTexture name="btn_soundsOff instance 10000" x="454" y="673" width="42" height="39"/>
+	<SubTexture name="canBuyNew instance 10000" x="101" y="878" width="33" height="33"/>
+	<SubTexture name="cubfon instance 10000" x="309" y="866" width="62" height="52"/>
+	<SubTexture name="lockedIcon instance 10000" x="454" y="428" width="42" height="41"/>
+	<SubTexture name="money instance 10000" x="479" y="189" width="17" height="25" frameX="-2" frameY="-1" frameWidth="22" frameHeight="26"/>
+	<SubTexture name="money instance 10001" x="479" y="241" width="15" height="25" frameX="-3" frameY="-1" frameWidth="22" frameHeight="26"/>
+	<SubTexture name="money instance 10002" x="502" y="75" width="7" height="25" frameX="-7" frameY="-1" frameWidth="22" frameHeight="26"/>
+	<SubTexture name="money instance 10003" x="495" y="241" width="15" height="25" frameX="-3" frameY="-1" frameWidth="22" frameHeight="26"/>
+	<SubTexture name="money instance 10004" x="479" y="215" width="17" height="25" frameX="-2" frameY="-1" frameWidth="22" frameHeight="26"/>
+	<SubTexture name="money instance 10005" x="479" y="108" width="22" height="26"/>
+	<SubTexture name="money instance 10006" x="479" y="135" width="21" height="26" frameX="0" frameY="0" frameWidth="22" frameHeight="26"/>
+	<SubTexture name="money instance 10007" x="479" y="162" width="21" height="26" frameX="0" frameY="0" frameWidth="22" frameHeight="26"/>
+	<SubTexture name="moregames instance 10000" x="97" y="770" width="49" height="30"/>
+	<SubTexture name="openByIcon instance 10000" x="433" y="517" width="74" height="66"/>
+	<SubTexture name="openByIcon instance 10001" x="379" y="673" width="74" height="66"/>
+	<SubTexture name="openByIcon instance 10002" x="331" y="799" width="74" height="66"/>
+	<SubTexture name="openByIcon instance 10003" x="406" y="799" width="74" height="66"/>
+	<SubTexture name="openByIcon instance 10004" x="97" y="811" width="74" height="66"/>
+	<SubTexture name="openByIcon instance 10005" x="172" y="811" width="74" height="66"/>
+	<SubTexture name="panelBestScore instance 10000" x="212" y="609" width="296" height="63"/>
+	<SubTexture name="panelFon instance 10000" x="331" y="743" width="177" height="55"/>
+	<SubTexture name="panelHeroInfo instance 10000" x="1" y="350" width="300" height="181"/>
+	<SubTexture name="panelModes instance 10000" x="1" y="532" width="358" height="76"/>
+	<SubTexture name="panelScore instance 10000" x="302" y="350" width="151" height="166"/>
+	<SubTexture name="plus instance 10000" x="63" y="878" width="37" height="37"/>
+	<SubTexture name="tnHeroes instance 10000" x="411" y="866" width="37" height="42"/>
+	<SubTexture name="tutorial instance 10000" x="1" y="194" width="477" height="155"/>
+	<SubTexture name="tutorialPC instance 10000" x="1" y="1" width="477" height="192"/>
+</TextureAtlas>
