@@ -1,0 +1,27 @@
+
+Tank_muxiang.png
+size: 149,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tank01_00004
+  rotate: false
+  xy: 84, 46
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+tank02_00004
+  rotate: true
+  xy: 84, 0
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+tank03_00004
+  rotate: true
+  xy: 0, 20
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1

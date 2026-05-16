@@ -1,0 +1,48 @@
+
+touzi_dian.png
+size: 508,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_dianshu_1
+  rotate: false
+  xy: 2, 2
+  size: 82, 82
+  orig: 82, 86
+  offset: 0, 2
+  index: -1
+bg_dianshu_2
+  rotate: false
+  xy: 86, 2
+  size: 82, 82
+  orig: 82, 86
+  offset: 0, 2
+  index: -1
+bg_dianshu_3
+  rotate: false
+  xy: 170, 2
+  size: 82, 82
+  orig: 82, 86
+  offset: 0, 2
+  index: -1
+bg_dianshu_4
+  rotate: false
+  xy: 254, 2
+  size: 82, 82
+  orig: 82, 86
+  offset: 0, 2
+  index: -1
+bg_dianshu_5
+  rotate: false
+  xy: 338, 2
+  size: 82, 82
+  orig: 82, 86
+  offset: 0, 2
+  index: -1
+bg_dianshu_6
+  rotate: false
+  xy: 422, 2
+  size: 82, 82
+  orig: 82, 86
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,13 @@
+
+sryx_mgss_shengji.png
+size: 31,31
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic_shengji
+  rotate: false
+  xy: 2, 2
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+shwf_effect_mutou.png
+size: 268,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mutou
+  rotate: false
+  xy: 0, 0
+  size: 268, 74
+  orig: 270, 75
+  offset: 1, 1
+  index: -1

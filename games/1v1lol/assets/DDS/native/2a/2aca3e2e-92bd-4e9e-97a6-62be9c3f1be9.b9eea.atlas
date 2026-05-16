@@ -1,0 +1,13 @@
+
+sryx_dds_chuitexiao.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+112
+  rotate: false
+  xy: 2, 2
+  size: 123, 121
+  orig: 124, 122
+  offset: 0, 1
+  index: -1

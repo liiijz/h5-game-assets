@@ -1,0 +1,13 @@
+
+sryx_boss_gx.png
+size: 115,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xian1
+  rotate: false
+  xy: 0, 0
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1

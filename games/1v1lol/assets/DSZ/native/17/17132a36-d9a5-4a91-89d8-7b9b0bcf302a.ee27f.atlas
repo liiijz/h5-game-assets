@@ -1,0 +1,20 @@
+
+zhangguo_effect.png
+size: 337, 230
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+123
+  rotate: false
+  xy: 2, 2
+  size: 256, 226
+  orig: 256, 256
+  offset: 0, 12
+  index: -1
+xingxing
+  rotate: true
+  xy: 260, 151
+  size: 77, 75
+  orig: 77, 77
+  offset: 0, 2
+  index: -1

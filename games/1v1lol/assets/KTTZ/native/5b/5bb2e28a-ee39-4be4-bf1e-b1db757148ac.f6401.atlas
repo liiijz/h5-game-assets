@@ -1,0 +1,13 @@
+
+touzi_daojishi.png
+size: 46,49
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_daojishi
+  rotate: false
+  xy: 2, 2
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1

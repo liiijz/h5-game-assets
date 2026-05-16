@@ -1,0 +1,41 @@
+
+tcg_an_lan.png
+size: 1171, 431
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+123
+  rotate: false
+  xy: 834, 16
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 50
+  size: 379, 476
+  orig: 379, 476
+  offset: 0, 0
+  index: -1
+2-1
+  rotate: true
+  xy: 480, 2
+  size: 270, 352
+  orig: 270, 352
+  offset: 0, 0
+  index: -1
+cz
+  rotate: true
+  xy: 480, 274
+  size: 155, 687
+  orig: 155, 687
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 1092, 195
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

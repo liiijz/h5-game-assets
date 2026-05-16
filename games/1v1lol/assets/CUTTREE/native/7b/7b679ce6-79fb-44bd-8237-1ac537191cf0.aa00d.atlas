@@ -1,0 +1,27 @@
+
+sryx_kanshu_shuzhi.png
+size: 320,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_zhuye1
+  rotate: false
+  xy: 0, 2
+  size: 121, 63
+  orig: 132, 67
+  offset: 8, 1
+  index: -1
+bg_zhuye2
+  rotate: false
+  xy: 123, 2
+  size: 121, 63
+  orig: 132, 67
+  offset: 8, 2
+  index: -1
+bg_zhuzi3
+  rotate: false
+  xy: 246, 0
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1

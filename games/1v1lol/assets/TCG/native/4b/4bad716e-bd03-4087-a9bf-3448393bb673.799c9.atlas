@@ -1,0 +1,41 @@
+
+tcg_an_hong.png
+size: 1172, 431
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 47
+  size: 382, 477
+  orig: 382, 477
+  offset: 0, 0
+  index: -1
+1-1
+  rotate: true
+  xy: 481, 2
+  size: 270, 352
+  orig: 270, 352
+  offset: 0, 0
+  index: -1
+123
+  rotate: false
+  xy: 835, 16
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cz
+  rotate: true
+  xy: 481, 274
+  size: 155, 687
+  orig: 155, 687
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 1093, 195
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

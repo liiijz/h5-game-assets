@@ -1,0 +1,20 @@
+
+sryx_mgss_sjtb.png
+size: 79,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shengji1
+  rotate: false
+  xy: 54, 25
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+shengji2
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

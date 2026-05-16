@@ -1,0 +1,55 @@
+
+sryx_cyc_shiwu.png
+size: 284,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doufu
+  rotate: false
+  xy: 156, 57
+  size: 113, 107
+  orig: 113, 107
+  offset: 0, 0
+  index: -1
+qingjiao
+  rotate: true
+  xy: 159, 166
+  size: 157, 113
+  orig: 157, 113
+  offset: 0, 0
+  index: -1
+xiangchang
+  rotate: false
+  xy: 0, 374
+  size: 165, 88
+  orig: 165, 88
+  offset: 0, 0
+  index: -1
+xianggu
+  rotate: true
+  xy: 167, 325
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+xiaren
+  rotate: false
+  xy: 0, 244
+  size: 157, 128
+  orig: 157, 128
+  offset: 0, 0
+  index: -1
+xilanhua
+  rotate: false
+  xy: 0, 102
+  size: 154, 140
+  orig: 154, 142
+  offset: 0, 1
+  index: -1
+yumi
+  rotate: false
+  xy: 0, 0
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1

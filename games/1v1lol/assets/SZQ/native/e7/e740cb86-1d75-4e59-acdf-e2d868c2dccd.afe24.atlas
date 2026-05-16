@@ -1,0 +1,20 @@
+
+sryx_effect_xian.png
+size: 132,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_lianxian
+  rotate: true
+  xy: 110, 28
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+sryx_effect_sj
+  rotate: true
+  xy: 2, 2
+  size: 56, 106
+  orig: 128, 128
+  offset: 36, 11
+  index: -1

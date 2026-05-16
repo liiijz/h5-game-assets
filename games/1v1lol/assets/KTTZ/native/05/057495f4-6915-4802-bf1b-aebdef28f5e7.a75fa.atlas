@@ -1,0 +1,27 @@
+
+touzi_jiangpai.png
+size: 172,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: false
+  xy: 154, 45
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+icon_jiangli
+  rotate: true
+  xy: 2, 2
+  size: 59, 74
+  orig: 62, 76
+  offset: 1, 1
+  index: -1
+icon_jiangli_2
+  rotate: true
+  xy: 78, 3
+  size: 58, 74
+  orig: 62, 76
+  offset: 0, 2
+  index: -1

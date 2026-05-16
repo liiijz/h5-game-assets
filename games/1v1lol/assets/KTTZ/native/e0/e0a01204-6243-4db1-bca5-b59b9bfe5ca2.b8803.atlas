@@ -1,0 +1,69 @@
+
+touzi_mian.png
+size: 760,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_touzi_bingchuan1
+  rotate: false
+  xy: 170, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+bg_touzi_huangjin1
+  rotate: false
+  xy: 86, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+bg_touzi_jijian1
+  rotate: false
+  xy: 254, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+bg_touzi_liuli1
+  rotate: false
+  xy: 338, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+bg_touzi_moren1
+  rotate: false
+  xy: 2, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+bg_touzi_suliao1
+  rotate: false
+  xy: 422, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+bg_touzi_tuhao1
+  rotate: false
+  xy: 506, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+bg_touzi_wanhuatong1
+  rotate: false
+  xy: 590, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+bg_touzi_wanju1
+  rotate: false
+  xy: 674, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1

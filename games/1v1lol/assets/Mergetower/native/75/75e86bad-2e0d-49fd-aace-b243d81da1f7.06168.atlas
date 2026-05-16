@@ -1,0 +1,27 @@
+
+sryx_effect_ta_fengsuo.png
+size: 287,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 0, 20
+  size: 74, 74
+  orig: 91, 91
+  offset: 9, 9
+  index: -1
+tu1
+  rotate: true
+  xy: 189, 0
+  size: 94, 98
+  orig: 96, 100
+  offset: 1, 1
+  index: -1
+tu2
+  rotate: false
+  xy: 76, 19
+  size: 111, 75
+  orig: 113, 77
+  offset: 1, 1
+  index: -1

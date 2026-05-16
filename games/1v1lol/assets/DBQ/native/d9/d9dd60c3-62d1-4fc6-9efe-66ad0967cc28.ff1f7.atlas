@@ -1,0 +1,125 @@
+
+sryx_duobiqiur_xr.png
+size: 537,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 290, 64
+  size: 78, 70
+  orig: 82, 73
+  offset: 2, 2
+  index: -1
+12
+  rotate: true
+  xy: 464, 10
+  size: 65, 41
+  orig: 68, 45
+  offset: 2, 2
+  index: -1
+13
+  rotate: true
+  xy: 367, 0
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 278, 6
+  size: 30, 37
+  orig: 32, 39
+  offset: 1, 1
+  index: -1
+15
+  rotate: false
+  xy: 507, 44
+  size: 30, 37
+  orig: 32, 39
+  offset: 1, 1
+  index: -1
+17
+  rotate: false
+  xy: 184, 38
+  size: 104, 104
+  orig: 106, 106
+  offset: 1, 1
+  index: -1
+19
+  rotate: true
+  xy: 417, 3
+  size: 59, 45
+  orig: 61, 47
+  offset: 1, 1
+  index: -1
+20
+  rotate: true
+  xy: 184, 1
+  size: 35, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 507, 5
+  size: 37, 14
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 0, 1
+  size: 90, 141
+  orig: 90, 141
+  offset: 0, 0
+  index: -1
+24
+  rotate: true
+  xy: 477, 83
+  size: 59, 45
+  orig: 61, 47
+  offset: 1, 1
+  index: -1
+25
+  rotate: false
+  xy: 92, 2
+  size: 90, 140
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 434, 77
+  size: 65, 41
+  orig: 68, 45
+  offset: 2, 2
+  index: -1
+5
+  rotate: true
+  xy: 317, 0
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 200, 6
+  size: 30, 37
+  orig: 32, 39
+  offset: 1, 1
+  index: -1
+7
+  rotate: true
+  xy: 239, 6
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 362, 64
+  size: 78, 70
+  orig: 82, 74
+  offset: 2, 2
+  index: -1

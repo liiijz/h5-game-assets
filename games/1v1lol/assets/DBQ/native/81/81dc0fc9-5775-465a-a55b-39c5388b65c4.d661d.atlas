@@ -1,0 +1,34 @@
+
+sryx_duobiqiu_x.png
+size: 254,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin1
+  rotate: true
+  xy: 65, 2
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+aixin2
+  rotate: true
+  xy: 128, 2
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+aixin3
+  rotate: true
+  xy: 191, 2
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+aixin4
+  rotate: true
+  xy: 2, 2
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1

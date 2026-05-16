@@ -1,0 +1,20 @@
+
+sryx_zlq_nz.png
+size: 104,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_naozhong
+  rotate: true
+  xy: 2, 2
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+sd
+  rotate: true
+  xy: 74, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

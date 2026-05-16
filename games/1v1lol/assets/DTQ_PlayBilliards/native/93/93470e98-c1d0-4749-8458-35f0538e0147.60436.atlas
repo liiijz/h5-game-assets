@@ -1,0 +1,13 @@
+
+SRYX_Effect_pingpangpz.png
+size: 90, 225
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+02
+  rotate: false
+  xy: 2, 2
+  size: 86, 221
+  orig: 92, 230
+  offset: 3, 4
+  index: -1

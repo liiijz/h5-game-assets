@@ -1,0 +1,20 @@
+
+fxq_effect_kuosanguangquan.png
+size: 209,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 0, 0
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+li
+  rotate: false
+  xy: 108, 5
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1

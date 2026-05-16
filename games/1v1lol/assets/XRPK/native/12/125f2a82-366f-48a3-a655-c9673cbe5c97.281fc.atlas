@@ -1,0 +1,48 @@
+
+paoku_jinbi.png
+size: 214,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold1
+  rotate: true
+  xy: 0, 62
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+gold2
+  rotate: true
+  xy: 72, 62
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+gold3
+  rotate: true
+  xy: 144, 62
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+gold4
+  rotate: true
+  xy: 0, 0
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+gold5
+  rotate: true
+  xy: 72, 0
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+gold6
+  rotate: true
+  xy: 144, 0
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1

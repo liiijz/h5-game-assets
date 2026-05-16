@@ -1,0 +1,20 @@
+
+shwf_effect_fish.png
+size: 196,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yu1
+  rotate: false
+  xy: 99, 0
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+yu2
+  rotate: false
+  xy: 0, 0
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
